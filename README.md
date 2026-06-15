@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-al-compas-del-viento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Latidos al compás del viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-al-compas-del-viento/) |
+| **Get License** | [Secure Licensing Rights for Latidos al compás del viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-al-compas-del-viento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d15397502ad15622e4e9641bdb87c2f3de72df3b62bb3a45b50fd0ec840cc528` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
