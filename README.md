@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-al-compas-del-viento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Latidos al compás del viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-al-compas-del-viento/) |
+| **Get License** | [Music Rights & Licensing for Latidos al compás del viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-al-compas-del-viento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la ciudad es de los dos
+> Siento la química, no hace falta usar la voz
+> Tú tienes ese flow que a mí me hace volar
+> Ven, pégate lento que no vamos a parar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
